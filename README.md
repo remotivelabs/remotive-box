@@ -14,7 +14,7 @@ Simply import the files from the folder [3D-model](3D-model) into your favorite 
 
 ## Connectors
 
-It's possible to purchase the necessary parts from [electrokit.com](https://www.electrokit.com).
+It's possible to purchase the necessary parts from [electrokit.com](https://www.electrokit.com/en/) or other electronics components store.
 
 - D-SUB 9 pin, [41000551](https://www.electrokit.com/en/product/d-sub-9-conn-male/)
 - Mounting kit (D-SUB mountings), [41011082](https://www.electrokit.com/en/product/mounting-kit-d-sub-13mm/)
