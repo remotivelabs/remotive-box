@@ -19,3 +19,8 @@ A PCB has been developed to connect the D-sub and banana connectors to the Raspb
 The banana connectors need to be purchased and soldered separetely from  [farnell.com](https://www.farnell.com)
 - [Red](https://se.farnell.com/multicomp/24-243-1/banana-socket-20a-4mm-pcb-red/dp/1698982?ICID=I-HP-STM7REC-RP-3)
 - [Black](https://se.farnell.com/multicomp/24-243-2/receptacle-20a-4mm-pcb-solder/dp/1698983)
+
+## Gallery
+
+![RemotiveBox Assembled](pictures/remotive-box-assembled.jpg)
+![RemotiveBox Internals](pictures/remotive-box-open-lid.jpg)
